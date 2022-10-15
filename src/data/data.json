@@ -1,0 +1,153 @@
+{
+  "Header": {
+    "title": "Conra",
+    "paragraph": "Where dreams meet reality and refinement,"
+  },
+  "About": {
+    "paragraph": "We're a software consultancy working with companies and businesses seeking knowledge and support from software developers, engineers, data scientists, artificial intelligence experts and product development teams. Conra Software offers technical and business expertise to convert your strategies into software systems that optimize your business performance.Making Innovative software that improves our quality of life by enhancing the capability and efficiency of every major industry. Great software is at the heart of information transfer. It allows manufacturers to produce products accurately and rapidly. It enables trade, commerce, advertising and sales to a global audience at the speed of light. With our Innovative software that drives financial services, empowers our professional activities and supports government operations. At Conra Software, we apply our technical skills and experience across of a variety of industries to bring your innovative ideas to life, making us the perfect development partner!",
+    "Why": [
+      "Conra Software takes your spark of innovation and kindles it to become a transformational tool that makes an impact for you and your customers",
+      "Powered by our design-led innovation process, we deliver solutions in Geospatial, Geographic Information Systems (GIS).",
+      "you're getting a partner who is interested in your company's success and can help solve complex problems."
+    ],
+    "Why2": [
+      "Expertise - Taking you to the future",
+      "Experience - Enhancing your business",
+      "Innovation - Solutions beyond dreams",
+      "industry - Practical and User friendly"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "NFT APP UI Kit",
+      "largeImage": "img/portfolio/nft.webp",
+      "smallImage": "img/portfolio/nft.webp"
+    },
+    {
+      "title": "Commerce App",
+      "largeImage": "img/portfolio/commerce.webp",
+      "smallImage": "img/portfolio/commerce.webp"
+    },
+    {
+      "title": "Deep Learning Video Anamoly Detection",
+      "largeImage": "img/portfolio/surveillance.png",
+      "smallImage": "img/portfolio/surveillance.png"
+    },
+    {
+      "title": "SaoFood UI kit",
+      "largeImage": "img/portfolio/saofood.png",
+      "smallImage": "img/portfolio/saofood.png"
+    },
+    {
+      "title": "Commerce App UI Kit",
+      "largeImage": "img/portfolio/commerce_UI.jpg",
+      "smallImage": "img/portfolio/commerce_UI.jpg"
+    },
+    {
+      "title": "Tickets APP",
+      "largeImage": "img/portfolio/tickets.png",
+      "smallImage": "img/portfolio/tickets.png"
+    },
+    {
+      "title": "Restaurant APP",
+      "largeImage": "img/portfolio/food.png",
+      "smallImage": "img/portfolio/food.png"
+    },
+    {
+      "title": "Mobile Face Authentication",
+      "largeImage": "img/portfolio/face.png",
+      "smallImage": "img/portfolio/face.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-eye",
+      "name": "Computer Vision & AI",
+      "text": "Intelligent solutions that eliminate human error while simutaneously reducing cost, doubling in efficiency with every Adoptation"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Mobile commerce",
+      "text": "Marketplaces powered by the mobile experience, taking your business closer and closer to your customers, expanding your reach"
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Cloud Technology",
+      "text": "Eliminating the need for in house servers and maintenance expenses, 95-99 % efficiency with no down time"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Cross Platform App Development",
+      "text": "Using the cutting edge techniques and techlogies to deliver a software experience accross silicon bounds, Stretching towards true customer reach."
+    },
+    {
+      "icon": "fa fa-road",
+      "name": "Geo-Technology",
+      "text": "Powered by our design-led innovation process, we deliver solutions in Geospatial, Geographic Information Systems (GIS), GPS, and Weather to help businesses grow."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Data Science",
+      "text": "Data visualization and handling with cloud powered algorithms and architecture"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"This face recognition mobile app is amazing! It has helped me find so many people that I would have never been able to find without it.\"",
+      "name": "Martha Delany"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"If you're looking for a comprehensive and user-friendly stock management app, Conra is the way to go. I've been using it for a while now and it has made tracking and managing my inventory a breeze. Highly recommend!.\"",
+      "name": "Wong Lee"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"I was really impressed by the anamoly detection in video AI developed by conra. It was able to detect some really strange things that I wouldn't have thought were possible.\"",
+      "name": "Richard Lungu"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/director.jpg",
+      "name": "Kelvin William Chagoma",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Troy MA",
+      "job": "Senior Engineer"
+    }
+  ],
+  "Contact": {
+    "address": "Area 49 gulliver, LIlongwe, MW 265 ",
+    "phone": "+265 990 274 138",
+    "email": "info@conra.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
