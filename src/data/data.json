@@ -1,12 +1,12 @@
 {
   "Header": {
     "title": "Conra",
-    "paragraph": "Where dreams meet reality and refinement,"
+    "paragraph": "Where dreams meet reality and refinement."
   },
   "About": {
-    "paragraph": "We're a software consultancy working with companies and businesses seeking knowledge and support from software developers, engineers, data scientists, artificial intelligence experts and product development teams. Conra Software offers technical and business expertise to convert your strategies into software systems that optimize your business performance.Making Innovative software that improves our quality of life by enhancing the capability and efficiency of every major industry. Great software is at the heart of information transfer. It allows manufacturers to produce products accurately and rapidly. It enables trade, commerce, advertising and sales to a global audience at the speed of light. With our Innovative software that drives financial services, empowers our professional activities and supports government operations. At Conra Software, we apply our technical skills and experience across of a variety of industries to bring your innovative ideas to life, making us the perfect development partner!",
+    "paragraph": "We're a software consultancy working with companies and businesses seeking knowledge and support from software developers, engineers, data scientists, artificial intelligence experts and product development teams. Conra offers technical and business expertise to convert your strategies into software systems that optimize your business performance.Making Innovative software that improves our quality of life by enhancing the capability and efficiency of every major industry. Great software is at the heart of information transfer. It allows manufacturers to produce products accurately and rapidly. It enables trade, commerce, advertising and sales to a global audience at the speed of light. With our Innovative software that drives financial services, empowers our professional activities and supports government operations. At Conra, we apply our technical skills and experience across a variety of industries to bring your innovative ideas to life, making us the perfect development partner!",
     "Why": [
-      "Conra Software takes your spark of innovation and kindles it to become a transformational tool that makes an impact for you and your customers",
+      "Conra takes your spark of innovation and kindles it to become a transformational tool that makes an impact for you and your customers",
       "Powered by our design-led innovation process, we deliver solutions in Geospatial, Geographic Information Systems (GIS).",
       "you're getting a partner who is interested in your company's success and can help solve complex problems."
     ],
@@ -63,12 +63,12 @@
     {
       "icon": "fa fa-eye",
       "name": "Computer Vision & AI",
-      "text": "Intelligent solutions that eliminate human error while simutaneously reducing cost, doubling in efficiency with every Adoptation"
+      "text": "Intelligent solutions that eliminate human error while simutaneously reducing cost, doubling in efficiency with every Adoptation."
     },
     {
       "icon": "fa fa-cart-arrow-down",
       "name": "Mobile commerce",
-      "text": "Marketplaces powered by the mobile experience, taking your business closer and closer to your customers, expanding your reach"
+      "text": "Marketplaces powered by the mobile experience, taking your business closer and closer to your customers, expanding your reach."
     },
     {
       "icon": "fa fa-cloud",
@@ -104,7 +104,7 @@
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"I was really impressed by the anamoly detection in video AI developed by conra. It was able to detect some really strange things that I wouldn't have thought were possible.\"",
+      "text": "\"I was really impressed by the anamoly detection in video AI developed by Conra. It was able to detect some really strange things that I wouldn't have thought were possible.\"",
       "name": "Richard Lungu"
     }
   ],
@@ -112,7 +112,7 @@
     {
       "img": "img/team/director.jpg",
       "name": "Kelvin William Chagoma",
-      "job": "Director"
+      "job": "President"
     },
     {
       "img": "img/team/02.jpg",
@@ -123,9 +123,9 @@
   "Contact": {
     "address": "Area 49 gulliver, LIlongwe, MW 265 ",
     "phone": "+265 990 274 138",
-    "email": "info@conra.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
+    "email": "info@Conra.com",
+    "facebook": "https://web.facebook.com/profile.php?id=100086697436940",
+    "twitter": "https://twitter.com/conra_io",
     "youtube": "youtube.com"
   },
   "Features": [
